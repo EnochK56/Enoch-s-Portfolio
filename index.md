@@ -46,7 +46,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs++++++++++++-picture; web-share" allowfullscreen></iframe>
 
 For your first milestone, describe what your project is and how you plan to build it. You can include:
 I have now first started my project on Voice Assistance with AI. So far, I have finished setting up my Raspberry Pi. I'm looking forward to start coding in the Raspberry Pi build my project. A challenge I as facing before was 
@@ -59,7 +59,7 @@ I have now first started my project on Voice Assistance with AI. So far, I have 
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="[https://www.youtube.com/watch?v=-osPt0VxOHs]" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="<iframe width="1252" height="704" src="<iframe width="1252" height="704" src="https://www.youtube.com/embed/-osPt0VxOHs" title="Enoch K. Starter Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For my Starter project, I chose the retro mini arcade. A device that can play 5 different games; Tetris, Snakes, Race Cars, Space Invaders, and Slots. It can also remove sound or turn the brightness up. I chose this project because I thought it would be a great way to learn the basics of engineering and I would also want to learn how to solder things. The arcade works by pressing buttons that send messages to the chip. Afterward, the chip will relay the message to the screen to do what it was told to do. A challenge that occurred for me was the soldering. Since the arcade device was so small, it was a challenge to solder things precisely like for example, soldering the USB port to the chip of the arcade machine.
 
