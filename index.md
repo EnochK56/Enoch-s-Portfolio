@@ -32,9 +32,9 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mxdpz4Z4b1w?si=PSq9wP5v86IvT8AJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 After my first milestone, I worked on getting an Open AI key which is an identifier that can let people use Open AI or Chat GPT in projects. I also linked a speaker and microphone to the Raspberry Pi so it can hear and talk to you. I added a circuit using relays to try turning the lights on and off after I finished the project. What has been surprising to me so far is that I never knew that you could use Chat GPT in your project. Another challenge I encountered was that wires would not stay in their holes when they were put in. This was challenging because the wires would always break apart from the breadboard and I would always get confused on what holes the wires were just in. And also, since the LED is always so flimsy, it is hard to keep the LED in the wires. Before I could say I finished my final milestone, I have to code the microphone to make sure it's listening and code the speaker to make it respond.
 
 
