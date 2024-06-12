@@ -41,9 +41,7 @@ After my first milestone, I worked on getting an Open AI key which is an identif
 # First Milestone
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs++++++++++++-picture; web-share" allowfullscreen></iframe>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mxdpz4Z4b1w?si=PSq9wP5v86IvT8AJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 After I finished my starter project, I moved on to my main project which is a voice assistant with AI. It will detect your command to it and transform the command into the thing that you want it to do. Like for example if you say "Hey Tom! turn off the lights." The voice assistant will then turn off the lights. This project is like Alexa or Siri. To build the voice Assistant, you will have to first set up a Raspberry Pi, and then, start coding in the Raspberry Pi to build the Voice Assistant. Afterward, wire in a speaker and microphone so the voice assistant can hear you and reply. And that's technically it. Right now, I have finished setting up my Raspberry Pi and started running tests on it to see if it works. The biggest challenge I am facing is getting Raspberry Pi set up. I had to get the installation on my computer then add in the MicroSD card. Then I had to put it in my Raspberry Pi, then use an HDMI cord to try to connect it to a monitor which I realize the cord is too big to fit. Then I had to get OBS to try to use Raspberry Pi on my computer which didn't work because I installed the wrong version of OBS. And after 3 and a half HOURS of grueling work, I finally set up my Raspberry Pi. My plan to complete this project is to continue to follow the codes and add them to the Raspberry Pi to complete my Voice Assistant.
 
 # Starter Project
