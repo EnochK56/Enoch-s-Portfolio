@@ -3,10 +3,10 @@ Voice Assistance with AI
 <!---#Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!--->
 
 <!---You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:--->
-```HTML 
+HTML 
 <!--- This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
-```
+
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -16,7 +16,7 @@ Voice Assistance with AI
 
 ![Headstone Image](logo.svg)
   
-# Final Milestone
+<!---# Final Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
@@ -26,7 +26,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+- What you hope to learn in the future after everything you've learned at BSE 
 
 
 
@@ -35,7 +35,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mxdpz4Z4b1w?si=PSq9wP5v86IvT8AJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-After my first milestone, I worked on getting an Open AI key which is an identifier that can let people use Open AI or Chat GPT in projects. I also linked a speaker and microphone to the Raspberry Pi so it can hear and talk to you. I added a circuit using relays to try turning the lights on and off after I finished the project. What has been surprising to me so far is that I never knew that you could use Chat GPT in your project. Another challenge I encountered was that wires would not stay in their holes when they were put in. This was challenging because the wires would always break apart from the breadboard and I would always get confused about what holes the wires were just in. Also, since the LED is always so flimsy, it is hard to keep the LED in the wires. Before I could say I finished my final milestone, I had to code the microphone to make sure it was listening and code the speaker to make it respond.
+After my first milestone, I worked on getting an Open AI key which is an identifier that can let people use Open AI or Chat GPT in projects. I also linked a speaker and microphone to the Raspberry Pi so it can hear and talk to you. I added a circuit using relays to try turning the lights on and off after I finished the project. What has been surprising to me so far is that I never knew that you could use Chat GPT in your project. Another challenge I encountered was that wires would not stay in their holes when they were put in. This was challenging because the wires would always break apart from the breadboard and I would always get confused about what holes the wires were just in. Also, since the LED is always so flimsy, it is hard to keep the LED in the wires. Before I could say I finished my final milestone, I had to code the microphone to make sure it was listening and code the speaker to make it respond. --->
 
 
 # First Milestone
@@ -50,7 +50,7 @@ After I finished my starter project, I moved on to my main project which is a vo
 
 For my Starter project, I chose the retro mini arcade. A device that can play 5 different games; Tetris, Snakes, Race Cars, Space Invaders, and Slots. It can also remove sound or turn the brightness up. I chose this project because I thought it would be a great way to learn the basics of engineering and I would also want to learn how to solder things. The arcade works by pressing buttons that send messages to the chip. Afterward, the chip will relay the message to the screen to do what it was told to do. A challenge that occurred for me was the soldering. Since the arcade device was so small, it was a challenge to solder things precisely like for example, soldering the USB port to the chip of the arcade machine.
 
-# Schematics 
+<!---# Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
 # Code
@@ -85,4 +85,4 @@ One of the best parts about Github is that you can view how other people set up 
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
-To watch the BSE tutorial on how to create a portfolio, click here.
+To watch the BSE tutorial on how to create a portfolio, click here. --->
