@@ -43,9 +43,6 @@ After my first milestone, I worked on getting an Open AI key which is an identif
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mxdpz4Z4b1w?si=PSq9wP5v86IvT8AJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 After I finished my starter project, I moved on to my main project which is a voice assistant with AI. It will detect your command to it and transform the command into the thing that you want it to do. Like for example if you say "Hey Tom! turn off the lights." The voice assistant will then turn off the lights. This project is like Alexa or Siri. To build the voice Assistant, you will have to first set up a Raspberry Pi, and then, start coding in the Raspberry Pi to build the Voice Assistant. Afterward, wire in a speaker and microphone so the voice assistant can hear you and reply. And that's technically it. Right now, I have finished setting up my Raspberry Pi and started running tests on it to see if it works.
-
-#Challenge
-
 The biggest challenge I am facing is getting Raspberry Pi set up. I had to get the installation on my computer then add in the MicroSD card. Then I had to put it in my Raspberry Pi, then use an HDMI cord to try to connect it to a monitor which I realize the cord is too big to fit. Then I had to get OBS to try to use Raspberry Pi on my computer which didn't work because I installed the wrong version of OBS. And after 3 and a half HOURS of grueling work, I finally set up my Raspberry Pi. My plan to complete this project is to continue to follow the codes and add them to the Raspberry Pi to complete my Voice Assistant.
 
 # Starter Project
@@ -53,9 +50,6 @@ The biggest challenge I am facing is getting Raspberry Pi set up. I had to get t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-osPt0VxOHs?si=fB-fBarGrkfehigB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my Starter project, I built the retro arcade game. The retro arcade game is a console that lets you play classic old games like Tetris, Snakes, Race Cars, Space Invaders, and Slots. The game device can also play sound or remove sound and turn the brightness up and down. I built the retro arcade game because I thought it would be a great way to understand the basics of engineering and learn how to solder things together. The game console works by pressing buttons. The buttons that you press will transmit messages to the chips where they will be analyzed. After the chip analyzed the message, it will then send another message to the LED screen to tell it what to do. Then the LED screen will light up according to the chip. That is how the game console works. 
-
-#Challenge
-
 A challenge I was facing when I did this project was that it was really hard to solder things together because of how small the game console was. Since the holes in the game console were so small, I couldn't solder things together without mistakes like how I accidentally soldered some things that I didn't have to solder. The next project I will be doing is my main project. My main project is a voice assistant with AI. It will reply to you after you say something to it. Like if you ask what the time is then it will respond with the time. That will be my next project.
 
 <!--# Schematics 
