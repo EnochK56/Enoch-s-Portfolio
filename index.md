@@ -48,9 +48,9 @@ After I finished my starter project, I moved on to my main project which is a vo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-osPt0VxOHs?si=fB-fBarGrkfehigB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For my Starter project, I chose the retro mini arcade. A device that can play 5 different games; Tetris, Snakes, Race Cars, Space Invaders, and Slots. It can also remove sound or turn the brightness up. I chose this project because I thought it would be a great way to learn the basics of engineering and I would also want to learn how to solder things. The arcade works by pressing buttons that send messages to the chip. Afterward, the chip will relay the message to the screen to do what it was told to do. A challenge that occurred for me was the soldering. Since the arcade device was so small, it was a challenge to solder things precisely like for example, soldering the USB port to the chip of the arcade machine.
+For my Starter project, I built the retro arcade game. The retro arcade game is a console that lets you play classic old games like Tetris, Snakes, Race Cars, Space Invaders, and Slots. The game device can also play sound or remove sound and turn the brightness up and down. I built the retro arcade game because I thought it would be a great way to understand the basics of engineering and learn how to solder things together. The game console works by pressing buttons. The buttons that you press will transmit messages to the chips where they will be analyzed. After the chip analyzed the message, it will then send another message to the LED screen to tell it what to do. Then the LED screen will light up according to the chip. That is how the game console works. A challenge I was facing when I did this project was that it was really hard to solder things together because of how small the game console was. Since the holes in the game console were so small, I couldn't solder things together without mistakes like how I accidentally soldered some things that I didn't have to solder. The next project I will be doing is my main project. My main project is a voice assistant with AI. It will reply to you after you say something to it. Like if you ask what the time is then it will respond with the time. That will be my next project.
 
-<!---# Schematics 
+<!--# Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
 # Code
@@ -67,7 +67,7 @@ void loop() {
   // put your main code here, to run repeatedly:
 
 }
-```
+``` -->
 
 # Bill of Materials
 Here's where you'll list the parts of your project. To add more rows, just copy and paste the example rows below.
@@ -75,14 +75,14 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| CanaKit Raspberry Pi 4 4GB Starter PRO Kit - 4GB RAM | What the item is used for | $139.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/CanaKit-Raspberry-4GB-Starter-Kit/dp/B07V5JTMV9/ref=asc_df_B07V5JTMV9/?tag=hyprod-20&linkCode=df0&hvadid=693338329849&hvpos=&hvnetw=g&hvrand=18331739921598768352&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061320&hvtargid=pla-1004184582672&mcid=9824999e31ae349e88b65c860ad01ca1&gad_source=1&th=1)"> Link </a> |
+| Item Name | What the item is used for | $ | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
-# Other Resources/Examples
+<!--# Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
-To watch the BSE tutorial on how to create a portfolio, click here. --->
+To watch the BSE tutorial on how to create a portfolio, click here. -->
