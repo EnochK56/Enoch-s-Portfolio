@@ -75,7 +75,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| CanaKit Raspberry Pi 4 4GB Starter PRO Kit - 4GB RAM | What the item is used for | $139.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/CanaKit-Raspberry-4GB-Starter-Kit/dp/B07V5JTMV9/ref=asc_df_B07V5JTMV9/?tag=hyprod-20&linkCode=df0&hvadid=693338329849&hvpos=&hvnetw=g&hvrand=18331739921598768352&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061320&hvtargid=pla-1004184582672&mcid=9824999e31ae349e88b65c860ad01ca1&gad_source=1&th=1)"> Link </a> |
+| CanaKit Raspberry Pi 4 4GB Starter PRO Kit - 4GB RAM | What the item is used for | $139.99 | <a href="https://www.amazon.com/CanaKit-Raspberry-4GB-Starter-Kit/dp/B07V5JTMV9/ref=asc_df_B07V5JTMV9/?tag=hyprod-20&linkCode=df0&hvadid=693338329849&hvpos=&hvnetw=g&hvrand=18331739921598768352&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061320&hvtargid=pla-1004184582672&mcid=9824999e31ae349e88b65c860ad01ca1&gad_source=1&th=1"> Link </a> |
 | Item Name | What the item is used for | $ | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
