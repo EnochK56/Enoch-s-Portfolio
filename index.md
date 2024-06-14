@@ -35,7 +35,9 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yF177yMZvsk?si=jn2-ZCQpiAx41ac5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 After my first milestone, I worked on getting an Open AI key, which is an identifier that can let people use Open AI or Chat GPT in projects. I also linked a USB microphone to the Raspberry Pi so it could hear you. I then added code in the terminal to import things like speech recognition, the Open AI key, and the USB microphone. I added a circuit using relays to try turning the lights on and off after I finished my project.
+
 
 What has been surprising to me so far is that I never knew that you could use Chat GPT in your project. Another challenge I encountered was that wires would not stay in their holes when they were put in. This was challenging because the wires would always break apart from the breadboard, and I would always get confused about what holes the wires were just in. Also, since the LED is always so flimsy, it is hard to keep the LED in the wires. What is going to happen next for me is to code the speaker and microphone to make them able to hear and talk to you. After that, I would make sure that the voice assistant could be able to turn the lights on.
 
@@ -44,7 +46,9 @@ What has been surprising to me so far is that I never knew that you could use Ch
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mxdpz4Z4b1w?si=PSq9wP5v86IvT8AJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 After I finished my starter project, I moved on to my main project, which is a voice assistant with AI. It will detect your command and transform the command into the thing that you want it to do. For example, if you say, "Hey Alexa! Turn off the lights." The voice assistant will then turn off the lights (the name for my voice assistant would be Alexa). This project is like Alexa or Siri. To build the voice assistant, you will have to first set up a Raspberry Pi and then start coding on the Pi to build the voice assistant. Afterward, wire in a speaker and microphone so the voice assistant can hear you and reply. And that's technically it. Right now, I have finished setting up my Raspberry Pi and started running tests on it to see if it works.
+
 
 The biggest challenge I am facing is getting the Raspberry Pi set up. I had to get the installation on my computer, then add in the MicroSD card. Then I had to put it in my Raspberry Pi, then use an HDMI cord to try to connect it to a monitor, but I realized the cord was too big to fit. Then I had to get OBS to try to use Raspberry Pi on my computer, which didn't work because I installed the wrong version of OBS. And after 3 and a half hours of grueling work, I finally set up my Raspberry Pi. My plan to complete this project is to continue to follow the codes and add them to the Raspberry Pi to complete my voice assistant.
 
