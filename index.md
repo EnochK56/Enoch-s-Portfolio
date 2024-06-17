@@ -20,13 +20,8 @@ Voice Assistance with AI
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VvFNCV2ZP9A?si=UUeEvZ4wVjXAw3Vl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE 
 
-
+After finishing my second milestone, I added a speaker to connect to my Raspberry Pi and the code to get the speaker and microphone working. A challenge I encountered while building this project was trying to get the speaker going. When I was using the first speaker, I had a problem with linking it to the Raspberry Pi. The audio from the speaker wasn't working, but it worked for my computer and phone. AND, it also broke my Raspberry Pi and made the audio on my Raspberry Pi stop working. Since the speaker wasn't working for my Raspberry Pi, I had to get a new speaker for my Raspberry Pi, and another plus is that I also had to reinstall my Raspberry Pi to get that audio working. A double whoopie!! For my next milestone, I will be adding modifications like asking Alexa (the name of the voice assistant) to turn on or off an LED lamp and changing Alexa's voice because it sounds horrid. 
 
 # Second Milestone
 
@@ -48,7 +43,7 @@ What has been surprising to me so far is that I never knew that you could use Ch
 After I finished my starter project, I moved on to my main project, which is a voice assistant with AI. It will detect your command and transform the command into the thing that you want it to do. For example, if you say, "Hey Alexa! Turn off the lights." The voice assistant will then turn off the lights (the name for my voice assistant would be Alexa). This project is like Alexa or Siri. To build the voice assistant, you will have to first set up a Raspberry Pi and then start coding on the Pi to build the voice assistant. Afterward, wire in a speaker and microphone so the voice assistant can hear you and reply. And that's technically it. Right now, I have finished setting up my Raspberry Pi and started running tests on it to see if it works.
 
 
-The biggest challenge I am facing is getting the Raspberry Pi set up. I had to get the installation on my computer, then add in the MicroSD card. Then I had to put it in my Raspberry Pi, then use an HDMI cord to try to connect it to a monitor, but I realized the cord was too big to fit. Then I had to get OBS to try to use Raspberry Pi on my computer, which didn't work because I installed the wrong version of OBS. And after 3 and a half hours of grueling work, I finally set up my Raspberry Pi. My plan to complete this project is to continue to follow the codes and add them to the Raspberry Pi to complete my voice assistant.
+The biggest challenge I am facing is getting the Raspberry Pi set up. I had to get the installation on my computer, then add in the MicroSD card. Then I had to put it in my Raspberry Pi, then use an HDMI cord to try to connect it to a monitor, but I realized the cord was too big to fit. Then I had to get OBS to try to use Raspberry Pi on my computer, which didn't work because I installed the wrong version of OBS. And after 3 and a half hours of GRUELING work, I finally set up my Raspberry Pi. My plan to complete this project is to continue to follow the codes and add them to the Raspberry Pi to complete my voice assistant.
 
 # Starter Project
 
