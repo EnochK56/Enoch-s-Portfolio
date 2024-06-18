@@ -1,4 +1,3 @@
-Voice Assistance with AI
 
 <!---#Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!--->
 
@@ -31,6 +30,7 @@ After finishing my second milestone, I added a speaker to connect to my Raspberr
 
 After my first milestone, I worked on getting an Open AI key, which is an identifier that can let people use Open AI or Chat GPT in projects. I also linked a USB microphone to the Raspberry Pi so it could hear you. I then added code in the terminal to import things like speech recognition, the Open AI key, and the USB microphone. I added a circuit using relays to try turning the lights on and off after I finished my project.
 
+## Challenges
 
 What has been surprising to me so far is that I never knew that you could use Chat GPT in your project. Another challenge I encountered was that wires would not stay in their holes when they were put in. This was challenging because the wires would always break apart from the breadboard, and I would always get confused about what holes the wires were just in. Also, since the LED is always so flimsy, it is hard to keep the LED in the wires. What is going to happen next for me is to code the speaker and microphone to make them able to hear and talk to you. After that, I would make sure that the voice assistant could be able to turn the lights on.
 
@@ -42,6 +42,7 @@ What has been surprising to me so far is that I never knew that you could use Ch
 
 After I finished my starter project, I moved on to my main project, which is a voice assistant with AI. It will detect your command and transform the command into the thing that you want it to do. For example, if you say, "Hey Alexa! Turn off the lights." The voice assistant will then turn off the lights (the name for my voice assistant would be Alexa). This project is like Alexa or Siri. To build the voice assistant, you will have to first set up a Raspberry Pi and then start coding on the Pi to build the voice assistant. Afterward, wire in a speaker and microphone so the voice assistant can hear you and reply. And that's technically it. Right now, I have finished setting up my Raspberry Pi and started running tests on it to see if it works.
 
+## Challenges
 
 The biggest challenge I am facing is getting the Raspberry Pi set up. I had to get the installation on my computer, then add in the MicroSD card. Then I had to put it in my Raspberry Pi, then use an HDMI cord to try to connect it to a monitor, but I realized the cord was too big to fit. Then I had to get OBS to try to use Raspberry Pi on my computer, which didn't work because I installed the wrong version of OBS. And after 3 and a half hours of GRUELING work, I finally set up my Raspberry Pi. My plan to complete this project is to continue to follow the codes and add them to the Raspberry Pi to complete my voice assistant.
 
@@ -50,6 +51,8 @@ The biggest challenge I am facing is getting the Raspberry Pi set up. I had to g
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-osPt0VxOHs?si=fB-fBarGrkfehigB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my starter project, I built a retro arcade game. The retro arcade game is a console that lets you play classic old games like Tetris, Snakes, Race Cars, Space Invaders, and Slots. The game device can also play the sound, remove the sound, and turn the brightness up and down. I built the retro arcade game because I thought it would be a great way to understand the basics of engineering and learn how to solder things together. The game console works by pressing buttons. The buttons that you press will transmit messages to the chips, where they will be analyzed. After the chip analyzes the message, it will send another message to the LED screen to tell it what to do. Then the LED screen will light up according to the chip. That is how the game console works.  
+
+## Challenges
 
 A challenge I was facing when I did this project was that it was really hard to solder things together because of how small the game console was. Since the holes in the game console were so small, I couldn't solder things together without mistakes, like how I accidentally soldered some things that I didn't have to solder. The next project I will be doing is my main project. My main project is a voice assistant with AI. It will reply to you after you say something to it. If you ask what the time is, it will respond with the time. That will be my next project.
 
