@@ -28,6 +28,8 @@ After finishing my second milestone, I added a speaker to connect to my Raspberr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yF177yMZvsk?si=jn2-ZCQpiAx41ac5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Summary
+
 After my first milestone, I worked on getting an Open AI key, which is an identifier that can let people use Open AI or Chat GPT in projects. I also linked a USB microphone to the Raspberry Pi so it could hear you. I then added code in the terminal to import things like speech recognition, the Open AI key, and the USB microphone. I added a circuit using relays to try turning the lights on and off after I finished my project.
 
 ## Challenges
@@ -40,6 +42,8 @@ What has been surprising to me so far is that I never knew that you could use Ch
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mxdpz4Z4b1w?si=PSq9wP5v86IvT8AJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Summary
+
 After I finished my starter project, I moved on to my main project, which is a voice assistant with AI. It will detect your command and transform the command into the thing that you want it to do. For example, if you say, "Hey Alexa! Turn off the lights." The voice assistant will then turn off the lights (the name for my voice assistant would be Alexa). This project is like Alexa or Siri. To build the voice assistant, you will have to first set up a Raspberry Pi and then start coding on the Pi to build the voice assistant. Afterward, wire in a speaker and microphone so the voice assistant can hear you and reply. And that's technically it. Right now, I have finished setting up my Raspberry Pi and started running tests on it to see if it works.
 
 ## Challenges
@@ -49,6 +53,8 @@ The biggest challenge I am facing is getting the Raspberry Pi set up. I had to g
 # Starter Project
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-osPt0VxOHs?si=fB-fBarGrkfehigB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Summary
 
 For my starter project, I built a retro arcade game. The retro arcade game is a console that lets you play classic old games like Tetris, Snakes, Race Cars, Space Invaders, and Slots. The game device can also play the sound, remove the sound, and turn the brightness up and down. I built the retro arcade game because I thought it would be a great way to understand the basics of engineering and learn how to solder things together. The game console works by pressing buttons. The buttons that you press will transmit messages to the chips, where they will be analyzed. After the chip analyzes the message, it will send another message to the LED screen to tell it what to do. Then the LED screen will light up according to the chip. That is how the game console works.  
 
