@@ -14,7 +14,7 @@ Voice Assistance with AI
 
 <!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.** -->
 
-![Headshot Image](Enoch.jpg)
+<img src="Enoch.jpg" alt="Headshot Image" height="300px">
   
 # Final Milestone
 
