@@ -28,6 +28,8 @@ After I finished my final milestone, which was trying to get it working, I then 
 A challenge I faced while trying to do the first part of my modifications was soldering the wires to the buttons. This was a challenge because everything went wrong. First of all, when I was trying to solder my wires to the chip with the button, the button fell off. This was crazy because I didn't even know I could do that because the solder that the company uses melts at a higher temperature. After this, I thought, "Oh, since I already desoldered one button, I should desolder the rest!" Well, that did not go so well. When I tried to desolder the second button, it wouldn't budge, and it ended up really messy. There was also an LED that lit up when the lamp got power, but when I was desoldering, I broke the LED. Then I decided to just keep the buttons in because it was too much of a hassle.
 And on top of that, when I finally took off the second button, part of the chip that makes the lamp work also broke off! So I had to connect the wire to another part of the chip to get it working. I finally got the lamp working after so many hours of work. This was one of the main challenges I faced.
 
+
+# Third Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VvFNCV2ZP9A?si=UUeEvZ4wVjXAw3Vl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Summary
