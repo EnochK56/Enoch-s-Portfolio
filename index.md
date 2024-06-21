@@ -38,6 +38,8 @@ After finishing my second milestone, I added a speaker to connect to my Raspberr
 
 A challenge I encountered while building this project was trying to get the speaker going. When I was using the first speaker, I had a problem with linking it to the Raspberry Pi. The audio from the speaker wasn't working, but it worked for my computer and phone. AND, it also broke my Raspberry Pi and made the audio on my Raspberry Pi stop working. Since the speaker wasn't working for my Raspberry Pi, I had to get a new speaker for my Raspberry Pi, and another plus is that I also had to reinstall my Raspberry Pi to get that audio working. A double whoopie!! For my next milestone, I will be adding modifications like asking Alexa (the name of the voice assistant) to turn on or off an LED lamp and changing Alexa's voice because it sounds horrid. 
 
+
+
 # Second Milestone
 
 
