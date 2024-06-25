@@ -1,6 +1,5 @@
 
-<!---#Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!--->
-
+<#Have you ever felt like you wanted to build an off-brand Alexa? Yeah, me too; I didn't think about building one either. Well, in my BlueStamp portfolio, I built one. In this portfolio, I will show you the code for my voice assistant, the challenges I faced, some fun ways to use this project, and how to enhance it to another level.>
 <!---You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:--->
 
 <!--- This is an HTML comment in Markdown -->
@@ -30,7 +29,7 @@ And on top of that, when I finally took off the second button, part of the chip 
 
 ## Summary of BlueStamp Engineering
 
-Overall, I had a great time at BlueStamp. It provided me with various opportunities like meeting new friends, helping my experience in engineering and coding, and most importantly, the aspect of competitiveness from the countless  sports games we played against the other classes. My time at BlueStamp was fulfilling as I learned many new things about engineering. The biggest challenge I faced when I was at BlueStamp was trying to problem-solve countless of my mistakes by myself. With the great instructors, I was able to solve these problems and made me able to complete my voice assistant with AI. Overall, my experience with BlueStamp was overwhelmingly positive and I hope my portfolio will convince you and others to join BlueStamp.
+Overall, I had a great time at BlueStamp. It provided me with various opportunities, like meeting new friends, helping my experience in engineering and coding, and most importantly, the aspect of competitiveness from the countless sports games we played against the other classes. My time at BlueStamp was fulfilling, as I learned many new things about engineering. The biggest challenge I faced when I was at BlueStamp was trying to problem-solve countless of my mistakes by myself. With the great instructors, I was able to solve these problems and complete my voice assistant with AI. Overall, my experience with BlueStamp was overwhelmingly positive, and I hope my portfolio will convince you and others to join BlueStamp.
 
 
 # Third Milestone
@@ -87,9 +86,11 @@ For my starter project, I built a retro arcade game. The retro arcade game is a 
 A challenge I was facing when I did this project was that it was really hard to solder things together because of how small the game console was. Since the holes in the game console were so small, I couldn't solder things together without mistakes, like how I accidentally soldered some things that I didn't have to solder. The next project I will be doing is my main project. My main project is a voice assistant with AI. It will reply to you after you say something to it. If you ask what the time is, it will respond with the time. That will be my next project.
 
 # Schematics 
+
+Here is the case I had to put my raspberry pi in:
 <img src="Raspberry Pi Voice Assistant Case.stl" alt="Rasp Pi Case" height="1000px">
 # Code
-Here is the code for to build the voice assistant (The API key is blanked out just for safety):
+Here is the code for building the voice assistant (The API key is blanked out just for safety):
 
 ```c++
 import lgpio
