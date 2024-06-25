@@ -38,7 +38,7 @@ Overall, I had a great time at BlueStamp. It provided me with various opportunit
 
 ## Summary
 
-After finishing my second milestone, I added a speaker to connect to my Raspberry Pi and the code to get the speaker and microphone working.
+After finishing my second milestone, I added a speaker to connect to my Raspberry Pi. I used a USB speaker because it does not take Bluetooth. I then also added Python code to the Raspberry Pi in the coding software Geanie. You can also look at the code down below. Overall, this is what I did for my 3rd milestone.
 
 ## Challenges
 
