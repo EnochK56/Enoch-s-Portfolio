@@ -1,4 +1,5 @@
 
+# Voice Assistant with AI
 Have you ever felt like you wanted to build an off-brand Alexa? Yeah, me too; I didn't think about building one either. Well, in my BlueStamp portfolio, I built one. In this portfolio, I will show you the code for my voice assistant, the challenges I faced, some fun ways to use this project, and how to enhance it to another level.
 <!---You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:--->
 
@@ -85,10 +86,10 @@ For my starter project, I built a retro arcade game. The retro arcade game is a 
 
 A challenge I was facing when I did this project was that it was really hard to solder things together because of how small the game console was. Since the holes in the game console were so small, I couldn't solder things together without mistakes, like how I accidentally soldered some things that I didn't have to solder. The next project I will be doing is my main project. My main project is a voice assistant with AI. It will reply to you after you say something to it. If you ask what the time is, it will respond with the time. That will be my next project.
 
-# Schematics 
+<!--# Schematics 
 
 Here is the case I had to put my raspberry pi in:
-<img src="Raspberry Pi Voice Assistant Case.stl" alt="Rasp Pi Case" height="1000px">
+<img src="Raspberry Pi Voice Assistant Case.stl" alt="Rasp Pi Case" height="1000px"> -->
 # Code
 Here is the code for building the voice assistant (The API key is blanked out just for safety):
 
