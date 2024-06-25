@@ -17,16 +17,20 @@
 
 
 
-# Modifications: Part 1
+# Modifications:
 
 ## Summary
 
-After I finished my final milestone, which was trying to get it working, I then worked on changing the voice and also getting a lamp that my voice could activate. For the voice changer, I first imported Google Text to Speech to be my voice and chose a sample there. I then used that voice as my code. After this, I worked on getting my lamp to work. I first worked on soldering wires to the buttons of the lamp so it could connect to the relay module, and then it would connect to the Raspberry Pi. After that, I would code the lamp to light up with some Python code. This is part of the first part of my modifications. You might be asking, "What's the second part of Enoch's very cool, genius, intelligent, amazingly great voice assistant?" Well, for the second part of my modification, I will also be adding a little fan, and I will be able to turn it on and change the level of intensity it will blow. I will also make only one video for all my modifications.
+After I finished my final milestone, which was trying to get it working, I then worked on changing the voice and also getting a lamp that my voice could activate. For the voice changer, I first imported Google Text to Speech to be my voice and chose a sample there. I then used that voice as my code. After this, I worked on getting my lamp to work. I first worked on soldering wires to the buttons of the lamp so it could connect to the relay module, and then it would connect to the Raspberry Pi. After that, I would code the lamp to light up with some Python code. I also used Onshape, a CAD software that can 3d print a case for my Raspberry Pi Voice Assistant. This will be it for my modifications.
 
 ## Challenges
 
-A challenge I faced while trying to do the first part of my modifications was soldering the wires to the buttons. This was a challenge because everything went wrong. First of all, when I was trying to solder my wires to the chip with the button, the button fell off. This was crazy because I didn't even know I could do that because the solder that the company uses melts at a higher temperature. After this, I thought, "Oh, since I already desoldered one button, I should desolder the rest!" Well, that did not go so well. When I tried to desolder the second button, it wouldn't budge, and it ended up really messy. There was also an LED that lit up when the lamp got power, but when I was desoldering, I broke the LED. Then I decided to just keep the buttons in because it was too much of a hassle.
+A challenge I faced while trying to do the first part of my modifications was soldering the wires to the buttons. This was a challenge because everything went wrong. First of all, when I was trying to solder my wires to the chip with the button, the button fell off. This was crazy because I didn't even know I could do that because the solder that the company uses melts at a higher temperature. After this, I thought, "Oh, since I already desoldered one button, I should desolder the rest!" Well, that did not go so well. When I tried to desolder the second button, it wouldn't budge, and it ended up messy. There was also an LED that lit up when the lamp got power, but when I was desoldering, I broke the LED. Then I decided to just keep the buttons in because it was too much of a hassle.
 And on top of that, when I finally took off the second button, part of the chip that makes the lamp work also broke off! So I had to connect the wire to another part of the chip to get it working. I finally got the lamp working after so many hours of work. This was one of the main challenges I faced.
+
+## Summary of BlueStamp Engineering
+
+Overall, I had a great time at BlueStamp. It provided me with various opportunities like meeting new friends, helping my experience in engineering and coding, and most importantly, the aspect of competitiveness from the countless  sports games we played against the other classes. My time at BlueStamp was fulfilling as I learned many new things about engineering. The biggest challenge I faced when I was at BlueStamp was trying to problem-solve countless of my mistakes by myself. With the great instructors, I was able to solve these problems and made me able to complete my voice assistant with AI. Overall, my experience with BlueStamp was overwhelmingly positive and I hope my portfolio will convince you and others to join BlueStamp.
 
 
 # Third Milestone
@@ -82,7 +86,7 @@ For my starter project, I built a retro arcade game. The retro arcade game is a 
 
 A challenge I was facing when I did this project was that it was really hard to solder things together because of how small the game console was. Since the holes in the game console were so small, I couldn't solder things together without mistakes, like how I accidentally soldered some things that I didn't have to solder. The next project I will be doing is my main project. My main project is a voice assistant with AI. It will reply to you after you say something to it. If you ask what the time is, it will respond with the time. That will be my next project.
 
-<!--# Schematics 
+# Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
 # Code
