@@ -93,17 +93,118 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
 ```c++
-void setup() {
-  // put your setup code here, to run once:
-  Serial.begin(9600);
-  Serial.println("Hello World!");
-}
+import lgpio
+import speech_recognition as sr
+from gtts import gTTS
+import openai
+from pydub import AudioSegment
+from pydub.playback import play
+import time
 
-void loop() {
-  // put your main code here, to run repeatedly:
+# Initializing pyttsx3
+listening = True
 
-}
-``` -->
+# Set your OpenAI API key and customize the ChatGPT role
+openai.api_key = "key"
+messages = [{"role": "system", "content": "Your name is Alexa and give answers in one sentence."}]
+
+# Define the GPIO pin numbers for the relays
+RELAY_ON_OFF = 18
+RELAY_INCREASE_BRIGHTNESS = 23
+RELAY_DECREASE_BRIGHTNESS = 24
+RELAY_SWITCH_LIGHT = 25
+
+# Initialize the GPIO
+try:
+    h = lgpio.gpiochip_open(0)
+    lgpio.gpio_claim_output(h, RELAY_ON_OFF)
+    lgpio.gpio_claim_output(h, RELAY_INCREASE_BRIGHTNESS)
+    lgpio.gpio_claim_output(h, RELAY_DECREASE_BRIGHTNESS)
+    lgpio.gpio_claim_output(h, RELAY_SWITCH_LIGHT)
+    print("GPIO initialized successfully")
+except Exception as e:
+    print(f"Failed to initialize GPIO: {e}")
+    h = None
+
+def get_response(user_input):
+    messages.append({"role": "user", "content": user_input})
+    response = openai.ChatCompletion.create(
+        model="gpt-3.5-turbo",
+        messages=messages
+    )
+    ChatGPT_reply = response["choices"][0]["message"]["content"]
+    messages.append({"role": "assistant", "content": ChatGPT_reply})
+    return ChatGPT_reply
+
+def speak(text):
+    tts = gTTS(text=text, lang='en', tld='com', slow=False)
+    tts.save("response.mp3")
+    sound = AudioSegment.from_mp3("response.mp3")
+    play(sound)
+
+def toggle_relay(pin, duration=0.2):
+    if h is not None:
+        lgpio.gpio_write(h, pin, 1)
+        print(f"Relay on GPIO {pin} activated")
+        time.sleep(duration)  # Relay is active for the specified duration
+        lgpio.gpio_write(h, pin, 0)
+        print(f"Relay on GPIO {pin} deactivated")
+    else:
+        print("GPIO is not initialized")
+
+while listening:
+    with sr.Microphone() as source:
+        recognizer = sr.Recognizer()
+        recognizer.adjust_for_ambient_noise(source)
+        recognizer.dynamic_energy_threshold = 1500
+
+        try:
+            print("Listening...")
+            audio = recognizer.listen(source, timeout=5.0)
+            response = recognizer.recognize_google(audio)
+            print(f"Recognized speech: {response}")
+
+            if "alexa" in response.lower():
+                response_from_openai = get_response(response)
+                speak(response_from_openai)
+            
+            elif "turn on the light" in response.lower():
+                print("Command recognized: turn on the light")
+                toggle_relay(RELAY_ON_OFF)
+
+            elif "turn off the light" in response.lower():
+                print("Command recognized: turn off the light")
+                toggle_relay(RELAY_ON_OFF)
+
+            elif "increase brightness" in response.lower():
+                print("Command recognized: increase brightness")
+                toggle_relay(RELAY_INCREASE_BRIGHTNESS)
+
+            elif "decrease brightness" in response.lower():
+                print("Command recognized: decrease brightness")
+                toggle_relay(RELAY_DECREASE_BRIGHTNESS)
+
+            elif "switch light" in response.lower():
+                print("Command recognized: switch light")
+                toggle_relay(RELAY_SWITCH_LIGHT)
+
+            else:
+                print("Didn't recognize any command.")
+
+        except sr.UnknownValueError:
+            print("Didn't recognize anything.")
+
+# Clean up GPIO on exit
+if h is not None:
+    lgpio.gpiochip_close(h)
+    print("GPIO cleanup completed")
+else:
+    print("GPIO was not initialized.")
+
+
+
+
+```
 
 # Bill of Materials
 
