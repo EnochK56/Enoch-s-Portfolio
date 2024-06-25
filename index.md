@@ -86,10 +86,9 @@ For my starter project, I built a retro arcade game. The retro arcade game is a 
 
 A challenge I was facing when I did this project was that it was really hard to solder things together because of how small the game console was. Since the holes in the game console were so small, I couldn't solder things together without mistakes, like how I accidentally soldered some things that I didn't have to solder. The next project I will be doing is my main project. My main project is a voice assistant with AI. It will reply to you after you say something to it. If you ask what the time is, it will respond with the time. That will be my next project.
 
-<!--# Schematics 
+# Schematics 
 
-Here is the case I had to put my raspberry pi in:
-<img src="Raspberry Pi Voice Assistant Case.stl" alt="Rasp Pi Case" height="1000px"> -->
+Here is the link to the schematic of the Raspberry Pi case I made: [schematic](https://cad.onshape.com/documents/881749bec758643a86d0a052/w/7f3d7e9be36c47c8522a7f0d/e/aa8820f47a2ac0f3c43fc7e7?renderMode=0&uiState=667b4d9f6ac6e471c4738287)
 # Code
 Here is the code for building the voice assistant (The API key is blanked out just for safety):
 
