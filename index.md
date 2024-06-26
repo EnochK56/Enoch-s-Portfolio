@@ -72,7 +72,7 @@ After I finished my starter project, I moved on to my main project, which is a v
 
 ## Challenges
 
-The biggest challenge I am facing is getting the Raspberry Pi set up. I had to get the installation on my computer, then add in the MicroSD card. Then I had to put it in my Raspberry Pi, then use an HDMI cord to try to connect it to a monitor, but I realized the cord was too big to fit. Then I had to get OBS to try to use Raspberry Pi on my computer, which didn't work because I installed the wrong version of OBS. And after 3 and a half hours of GRUELING work, I finally set up my Raspberry Pi. My plan to complete this project is to continue to follow the codes and add them to the Raspberry Pi to complete my voice assistant.
+The biggest challenge I am facing is getting the Raspberry Pi set up. I had to get the installation on my computer, and then add in the MicroSD card. Then I had to put it in my Raspberry Pi, then use an HDMI cord to try to connect it to a monitor, but I realized the cord was too big to fit. Then I had to get OBS to try to use Raspberry Pi on my computer, which didn't work because I installed the wrong version of OBS. And after 3 and a half hours of GRUELING work, I finally set up my Raspberry Pi. My plan to complete this project is to continue to follow the codes and add them to the Raspberry Pi to complete my voice assistant.
 
 # Starter Project
 
