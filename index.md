@@ -89,9 +89,15 @@ A challenge I was facing when I did this project was that it was really hard to 
 # Schematics 
 
 Here is the link to the schematic of the Raspberry Pi case I made: [schematic](https://cad.onshape.com/documents/881749bec758643a86d0a052/w/7f3d7e9be36c47c8522a7f0d/e/aa8820f47a2ac0f3c43fc7e7?renderMode=0&uiState=667b4d9f6ac6e471c4738287) And if you are too lazy here are another picture of my raspberry pi case and also a picture of the circuit that was made to get my lamp working. (Image from Mehrab Abrar github page. link here https://github.com/mehrab-abrar/Raspberry-Pi-Voice-Assistant/tree/main). 
-Raspberry Pi Case:
+
+## Raspberry Pi Case:
+
 <img src="screenshot.png" alt="Rasp Pi Case" height="300px">
-Circuit of the Lamp:
+
+
+## Circuit of the Lamp:
+
+<img src="" alt="Lamp Circuit" height="300px">
 
 # Code
 Here is the code for building the voice assistant (The API key is blanked out just for safety):
