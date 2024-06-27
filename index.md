@@ -94,13 +94,15 @@ Here is the link to the schematic of the Raspberry Pi case I made: [schematic](h
 
 ## Raspberry Pi Case:
 
-<img src="Part 1 Drawing 1 (1).jpeg" alt="Rasp Pi Case" height="300px">
-<img src="Part 2 Drawing 1 (1).jpeg" alt ="Rasp Pi Case" height="300px">
+<img src="Part 1 Drawing 1 (1).jpeg" alt="Rasp Pi Case" height="600px">
+
+
+<img src="Part 2 Drawing 1 (1).jpeg" alt ="Rasp Pi Case" height="600px">
 
 
 ## Circuit of the Lamp:
 
-<img src="ciruit.png" alt="Lamp Circuit" height="300px">
+<img src="ciruit.png" alt="Lamp Circuit" height="600px">
 
 # Code
 Here is the code for building the voice assistant (The API key is blanked out just for safety):
