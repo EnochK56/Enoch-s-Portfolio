@@ -94,8 +94,8 @@ Here is the link to the schematic of the Raspberry Pi case I made: [schematic](h
 
 ## Raspberry Pi Case:
 
-<img src="Part 1 Drawing 1.jpeg" alt="Rasp Pi Case" height="300px">
-<img src="Part 2 Drawing 1.jpeg" alt ="Rasp Pi Case" height="300px">
+<img src="Part 1 Drawing 1 (1).jpeg" alt="Rasp Pi Case" height="300px">
+<img src="Part 2 Drawing 1 (1).jpeg" alt ="Rasp Pi Case" height="300px">
 
 
 ## Circuit of the Lamp:
