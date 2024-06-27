@@ -19,6 +19,8 @@ Have you ever felt like you wanted to build an off-brand Alexa? Yeah, me too; I 
 
 # Modifications:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Eq4DxJ9QExM?si=U9hDiRA7Oc5FbP_N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Summary
 
 After I finished my final milestone, which was trying to get it working, I then worked on changing the voice and also getting a lamp that my voice could activate. For the voice changer, I first imported Google Text to Speech to be my voice and chose a sample there. I then used that voice as my code. After this, I worked on getting my lamp to work. I first worked on soldering wires to the buttons of the lamp so it could connect to the relay module, and then it would connect to the Raspberry Pi. After that, I would code the lamp to light up with some Python code. I also used Onshape, a CAD software that can 3d print a case for my Raspberry Pi Voice Assistant. This will be it for my modifications.
