@@ -13,7 +13,7 @@ Have you ever felt like you wanted to build an off-brand Alexa? Yeah, me too; I 
 
 <!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.** -->
 
-<img src="Enoch (1).jpg" alt="Headshot Image" height="600px">
+<img src="Enoch_K.jpg" alt="Headshot Image" height="600px">
 
 
 
